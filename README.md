@@ -2,7 +2,7 @@
 
 ## Homework 1 Details
 
-This repository contains first homework. [See details.](https://github.com/patika-hepsiburada-react-bootcamp/odevler/tree/main/odev1).
+This repository contains first homework. [See details](https://github.com/patika-hepsiburada-react-bootcamp/odevler/tree/main/odev1).
 
 ## Installation
 
