@@ -10,7 +10,7 @@ First, clone this [repository](https://github.com/patika-hepsiburada-react-bootc
 
 `git clone https://github.com/patika-hepsiburada-react-bootcamp/odev-1-mesutkoc`
 
-Second, npm should be init.
+Second, npm should be [init](https://docs.npmjs.com/cli/v7/commands/npm-init).
 
 ## Usage
 
