@@ -1,4 +1,4 @@
-# Patika Hepsiburada React Bootcamp
+# Patika.dev - Hepsiburada React Bootcamp
 
 ## Homework 1 Details
 
